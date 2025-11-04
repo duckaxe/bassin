@@ -1,3 +1,0 @@
-export const POLL_INTERVAL_SECONDS = 60;
-export const BASSIN_STRATUM_PORT = 3456;
-export const CHART_HISTORY_LENGTH = 61;
