@@ -33,6 +33,8 @@ support: https://github.com/duckaxe/bassin/issues
 icon: https://raw.githubusercontent.com/duckaxe/bassin/main/duckaxe-bassin/icon.svg
 gallery:
   - https://raw.githubusercontent.com/duckaxe/bassin/main/duckaxe-bassin/gallery_1.jpg
+  - https://raw.githubusercontent.com/duckaxe/bassin/main/duckaxe-bassin/gallery_2.jpg
+  - https://raw.githubusercontent.com/duckaxe/bassin/main/duckaxe-bassin/gallery_3.jpg
 path: ""
 defaultUsername: ""
 defaultPassword: ""
