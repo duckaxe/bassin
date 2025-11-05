@@ -4,7 +4,7 @@
   <br>
   A zero-fee Bitcoin solo mining pool for Umbrel.
   <br>
-  Run your own <a href="https://bitbucket.org/ckolivas/ckpool-solo/src/solobtc/">ckPool</a> at home.
+  Run your own ckPool at home.
 </p>
 
 
@@ -30,7 +30,7 @@
 
 * https://github.com/duckaxe/bassin-ui
 * https://github.com/duckaxe/ckpool-solo
-* https://github.com/duckaxe/umbrel-bassin-widget
+* https://hub.docker.com/r/pinkyswear/ckpool-solo
 
 
 ### Dataflow
