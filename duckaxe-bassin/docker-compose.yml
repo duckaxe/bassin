@@ -25,8 +25,8 @@ services:
       - APP_BITCOIN_ZMQ_HASHBLOCK_PORT=${APP_BITCOIN_ZMQ_HASHBLOCK_PORT}
 
   ckpool:
-    image: ghcr.io/duckaxe/ckpool-solo:main@sha256:e9fabb50efd2ec037fa17a0b0973667280b80caa929437ac51a5708f1b58fed9
-    entrypoint: /bin/sh -c '/opt/ckpool/src/ckpool -k -B -c /config/ckpool.conf'
+    image: pinkyswear/ckpool-solo:latest@sha256:71ee905e7badd04ed119f84700fbd0f388fe6307a504b854558e3e6d26cae787
+    entrypoint: /bin/sh -c './bin/ckpool -k -B -c /config/ckpool.conf'
     user: "1000:1000"
     depends_on:
       init:
