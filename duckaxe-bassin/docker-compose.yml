@@ -40,7 +40,7 @@ services:
       - ${APP_DATA_DIR}/data/www:/www
 
   ui:
-    image: ghcr.io/duckaxe/bassin-ui:main@sha256:88ca87eb14bd74cdf03eeef6767a7ce1f9ff597294c0455fae66e00e3e41b845
+    image: ghcr.io/duckaxe/bassin-ui:main@sha256:7a8c8816ebe5fa220af91bd05e3aad0777e2878c83ff5134900d970468a859c4
     entrypoint: /bin/sh -c "cp -r /ui/* /www/"
     user: "1000:1000"
     volumes:
