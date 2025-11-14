@@ -2,7 +2,7 @@
   <img src="favicon.svg" width=64 height=64 alt=Bassin>
   <br>
   <br>
-  A zero-fee Bitcoin solo mining pool for Umbrel.
+  A zero-fee Bitcoin solo mining pool for <a href="https://apps.umbrel.com/app/bassin">Umbrel</a>.
   <br>
   Run your own ckPool at home.
 </p>
@@ -10,15 +10,14 @@
 
 ### Install
 
-1. Add `Bassin` repository to your Umbrel Community App Store
-  * Open the Umbrel App Store
-  * Click dots on the right
-  * Click *Community App Stores*
-  * Enter `https://github.com/duckaxe/bassin`, click *Add*
-  * Open *duckaxe Community App Store*
-2. Click the `Bassin` app to initialize the install
-3. Open the `Bassin` app, then follow the on-screen instructions
-4. Find the Bitcoin block 🎉
+1. Install `Bassin` directly from the Umbrel App Store
+2. Open the `Bassin` app, then follow the on-screen instructions
+3. Find the Bitcoin block 🎉
+
+
+> [!NOTE]
+> Bassin is now available in the official Umbrel App Store.<br>
+> The Community Edition will no longer be under active development.
 
 
 ### Wiki
@@ -28,8 +27,9 @@
 
 ### Repositories
 
+* https://github.com/getumbrel/umbrel-apps/tree/master/bassin
 * https://github.com/duckaxe/bassin-ui
-* https://github.com/duckaxe/ckpool-solo
+* https://github.com/duckaxe/umbrel-bassin-widget
 * https://hub.docker.com/r/pinkyswear/ckpool-solo
 
 
