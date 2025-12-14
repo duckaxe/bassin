@@ -14,7 +14,7 @@
 
 ### Install
 
-1. Install `Bassin` directly from the Umbrel App Store
+1. Install `Bassin` directly from the [Umbrel App Store](https://apps.umbrel.com/app/bassin)
 2. Open the `Bassin` app, then follow the on-screen instructions
 3. Find the Bitcoin block 🎉
 
@@ -26,10 +26,10 @@
 
 ### Repositories
 
-* https://github.com/getumbrel/umbrel-apps/tree/master/bassin
-* https://github.com/duckaxe/bassin-ui
-* https://github.com/duckaxe/umbrel-bassin-widget
-* https://ghcr.io/getumbrel/docker-ckpool-solo
+* [Bassin UI](https://github.com/duckaxe/bassin-ui)
+* [Bassin Widget](https://github.com/duckaxe/umbrel-bassin-widget)
+* [Bassin @ Umbrel](https://github.com/getumbrel/umbrel-apps/tree/master/bassin)
+* [ckPool Docker Image](https://ghcr.io/getumbrel/docker-ckpool-solo)
 
 
 ### Dataflow
@@ -49,7 +49,7 @@ flowchart LR
 
 ### Thanks
 
-❤️ to the [Umbrel](https://umbrel.com/) team for their fantastic support in creating and publishing the app.
+A big shout out to the [Umbrel](https://umbrel.com) team for their fantastic support in creating and publishing the app.
 
 
 ### Legal
